@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Database schema
+database_schema.dbml
+
+# VSCode settings
+.vscode/
+
+# npm debug log
+npm-debug.log*
